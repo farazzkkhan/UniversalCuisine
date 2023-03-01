@@ -1,0 +1,40 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: hsl(216, 64%, 47%);
+    text-align: center;
+    padding: 150px;
+    border-radius: 7px;
+    margin: 10px;
+}
+
+.l14, .l15, .l34, .l36 {
+    text-align: center;
+    color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.healf {
+    text-align: center;
+    border: 1px black solid;
+    padding: 10px;
+}
+.l16 {
+    border: 1px black solid;
+    background-color: cornflowerblue;
+    color: darkblue;
+    padding: 5px;
+}
+
+.nonv {
+    text-align: center;
+    border: 1px black solid;
+    padding: 10px;
+}
+.l35 {
+    border: 1px black solid;
+    background-color: cornflowerblue;
+    color: darkblue;
+    padding: 5px;
+}
